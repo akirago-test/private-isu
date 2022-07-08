@@ -22,7 +22,7 @@ user		= mysql
 # datadir	= /var/lib/mysql
 
 slow_query_log = 1
-slow_query_log_file = /var/log/mysql/mysql-slow.log
+slow_query_log_file = /home/isucon/private_isu/webapp/log/mysql-slow.log
 long_query_time = 0
 
 # If MySQL is running as a replication slave, this should be
